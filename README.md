@@ -27,7 +27,12 @@ I enjoy solving problems using **Data Structures** and developing **desktop and 
 ⭐ Always learning and improving my development skills.
 
 ## 🎓 شهاداتي
+
 ![Certificate 1](Annotation%202026-03-15%20015236.png)
 ![Certificate 2](Annotation%202026-03-15%20015340.png)
 ![Certificate 3](Annotation%202026-03-15%20015435.png)
-
+![Certificate 4](Annotation%202026-03-15%20015501.png)
+![Certificate 5](Annotation%202026-03-15%20015524.png)
+![Certificate 6](Annotation%202026-03-15%20015552.png)
+![Certificate 7](Annotation%202026-03-15%20015623.png)
+![Certificate 8](Annotation%202026-03-15%20015646.png)
