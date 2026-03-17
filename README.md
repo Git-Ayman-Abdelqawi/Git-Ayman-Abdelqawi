@@ -27,6 +27,6 @@ I enjoy solving problems using **Data Structures** and developing **desktop and 
 ⭐ Always learning and improving my development skills.
 ## 🎓 شهاداتي | My Certificates
 
-![Certificate 1](https://github.com/Git-Ayman-Abdelqawi/Git-Ayman-Abdelqawi/blob/main/Annotation%202026-03-15%20015236.png)
+https://raw.githubusercontent.com/Git-Ayman-Abdelqawi/Git-Ayman-Abdelqawi/main/Certificate_OOP.png
 
 
